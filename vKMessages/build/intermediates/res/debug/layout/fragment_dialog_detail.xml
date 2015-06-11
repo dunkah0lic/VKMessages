@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialog_detail"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#e5e5e5"
+    tools:context=".DialogDetailFragment" >
+
+
+    <LinearLayout
+        android:id="@+id/edit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff">
+
+        <EditText
+            android:id="@+id/message_editText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10" >
+
+        </EditText>
+
+        <ImageButton
+            android:id="@+id/send_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_send_now"
+            android:background="#ffffff"
+             />
+
+    </LinearLayout>
+    
+    <ListView
+        android:id="@+id/messages_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/edit_layout" >
+    </ListView>
+
+</RelativeLayout>
+
+<!-- From: file:/C:/Users/Nikolay/AndroidStudioProjects/VKMessages4/vKMessages/src/main/res/layout/fragment_dialog_detail.xml -->

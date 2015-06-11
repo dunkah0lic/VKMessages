@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\exploded-aar\VKMessages4\androidVkSdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0652bd57e11b7fd182d92181ad0d7ab9913d9e54">
+        <dex dex="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\pre-dexed\debug\classes-d87f4e97156951958a14510f2f8686c763bf6abb.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\pre-dexed\debug\support-v4-19.1.0-73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\exploded-aar\VKMessages4\pullToRefreshListFragment\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8dd267f12785048e202f4a72869144f687247875">
+        <dex dex="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\pre-dexed\debug\classes-63d8ca69cfbaf4ef1e1f9762cc461ab721cd5964.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\exploded-aar\VKMessages4\pullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cc094083ef3ccfcd1db148639e9781ffed896d8d">
+        <dex dex="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\pre-dexed\debug\classes-822d6986c2fa327ffee535f7bd4dee1d2b049f6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\exploded-aar\VKMessages4\urlImageViewHelper\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1a1be4e923e52c44563b263a6494d6782b0bdfad">
+        <dex dex="C:\Users\Nikolay\AndroidStudioProjects\VKMessages4\vKMessages\build\intermediates\pre-dexed\debug\classes-72b2566912223c3a7e8ba7c34f3288ca00011996.jar" />
+    </item>
+
+</items>

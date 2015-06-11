@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VK messages</string>
+    <string name="title_dialog_detail">Dialog Detail</string>
+    <string name="send">Отпр.</string>
+    <string name="last_seen">Был в сети</string>
+    <string name="online">Онлайн</string>
+    
+  
+</resources>

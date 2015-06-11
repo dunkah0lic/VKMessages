@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VKMessages4.iml" filepath="$PROJECT_DIR$/VKMessages4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidVkSdk/androidVkSdk.iml" filepath="$PROJECT_DIR$/androidVkSdk/androidVkSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" filepath="$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshListFragment/pullToRefreshListFragment.iml" filepath="$PROJECT_DIR$/pullToRefreshListFragment/pullToRefreshListFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/urlImageViewHelper/urlImageViewHelper.iml" filepath="$PROJECT_DIR$/urlImageViewHelper/urlImageViewHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vKMessages/vKMessages.iml" filepath="$PROJECT_DIR$/vKMessages/vKMessages.iml" />
+    </modules>
+  </component>
+</project>
